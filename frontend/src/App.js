@@ -85,7 +85,7 @@ function App() {
               </Button>
 
               <LinkContainer to="/">
-                <Navbar.Brand>DealKart</Navbar.Brand>
+                <Navbar.Brand>DealCart</Navbar.Brand>
               </LinkContainer>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
